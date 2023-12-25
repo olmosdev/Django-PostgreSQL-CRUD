@@ -58,11 +58,11 @@ $ python manage.py migrate
 
 No tasks
 
-![First image](C:\Users\gabyolmos\Desktop\Django-PostgreSQL-CRUD\GitHub%20images\No%20tasks.PNG)
+![First image](./Previews/No_tasks.PNG)
 
 With some tasks
 
-![](C:\Users\gabyolmos\Desktop\Django-PostgreSQL-CRUD\GitHub%20images\With%20some%20tasks.PNG)
+![Second image](./Previews/With_some_tasks.PNG)
 
 ## Note
 
