@@ -1,7 +1,6 @@
 from django.urls import path
 from .views import task_list, create_task, delete_task
 
-# Every url in django has to end with "/"
 urlpatterns = [
     path('', task_list),
     path('new_task/', create_task, name='create_task'),

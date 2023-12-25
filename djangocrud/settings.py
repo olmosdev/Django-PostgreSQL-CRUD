@@ -77,11 +77,11 @@ WSGI_APPLICATION = 'djangocrud.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        "NAME": "tasksdb",
-        "USER": "postgres",
-        "PASSWORD": "diegopizza23",
-        "HOST": "127.0.0.1",
-        "PORT": "5432",
+        "NAME": "your_database",
+        "USER": "your_user",
+        "PASSWORD": "your_password",
+        "HOST": "your_host",
+        "PORT": "your_database_port",
     }
 }
 
